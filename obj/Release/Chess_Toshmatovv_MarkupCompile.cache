@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Chess_Toshmatovv\obj\Debug\
+E:\Chess_Toshmatovv\obj\Release\
 Chess_Toshmatovv
 none
 false
-DEBUG;TRACE
+TRACE
 E:\Chess_Toshmatovv\App.xaml
 1219584333
 
-7275670163
+6-1937208515
 13-1310406943
 MainWindow.xaml;
 
-False
+True
 
